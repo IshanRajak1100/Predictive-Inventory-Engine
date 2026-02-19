@@ -40,5 +40,5 @@ This project addresses a core retail challenge: **optimizing stock levels throug
 ---
 
 ## 📈 Performance Visualization
-![Model Accuracy](./model_accuracy_plot.png)
+
 *Figure 1: Line chart comparing Actual vs. Predicted sales showing 90%+ pattern alignment.*
