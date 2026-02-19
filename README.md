@@ -40,5 +40,6 @@ This project addresses a core retail challenge: **optimizing stock levels throug
 ---
 
 ## 📈 Performance Visualization
+<img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/08bf1733-1233-4e9f-8580-44416623e6cc" />
 
 *Figure 1: Line chart comparing Actual vs. Predicted sales showing 90%+ pattern alignment.*
